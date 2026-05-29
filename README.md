@@ -1,1 +1,0 @@
-# Ekimetrics-Hackathon
